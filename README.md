@@ -131,6 +131,5 @@
     <footer>
         <p>&copy; 2025 Equation Classes. All rights reserved.</p>
     </footer>
-
 </body>
 </html>

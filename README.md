@@ -74,7 +74,7 @@
 <body>
 
     <header>
-        <h1>Equation Classes</h1>
+        <h1>EQUATION classes Bhopal</h1>
         <nav>
             <ul>
                 <li><a href="#about">About Us</a></li>
@@ -131,5 +131,6 @@
     <footer>
         <p>&copy; 2025 Equation Classes. All rights reserved.</p>
     </footer>
+
 </body>
 </html>
